@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.33530.505
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSearch", "StarSearch\StarSearch.csproj", "{C10546B3-3F9A-4CA7-99CE-8925BE78915F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSearch", "StarSearch\StarSearch.csproj", "{C7E1459C-1F8A-4446-9196-91A9FA78079C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C10546B3-3F9A-4CA7-99CE-8925BE78915F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C10546B3-3F9A-4CA7-99CE-8925BE78915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C10546B3-3F9A-4CA7-99CE-8925BE78915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C10546B3-3F9A-4CA7-99CE-8925BE78915F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E1459C-1F8A-4446-9196-91A9FA78079C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E1459C-1F8A-4446-9196-91A9FA78079C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E1459C-1F8A-4446-9196-91A9FA78079C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E1459C-1F8A-4446-9196-91A9FA78079C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D288C951-7D3B-48D6-B3D8-98016DEF93C7}
+		SolutionGuid = {E045A0C8-E9AC-4D8F-932C-CABD6D803450}
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\StarSearch\\StarSearch\\StarSearch.csproj": {}
+    "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\starsearch\\StarSearch\\StarSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\StarSearch\\StarSearch\\StarSearch.csproj": {
+    "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\starsearch\\StarSearch\\StarSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\StarSearch\\StarSearch\\StarSearch.csproj",
+        "projectUniqueName": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\starsearch\\StarSearch\\StarSearch.csproj",
         "projectName": "StarSearch",
-        "projectPath": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\StarSearch\\StarSearch\\StarSearch.csproj",
+        "projectPath": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\starsearch\\StarSearch\\StarSearch.csproj",
         "packagesPath": "C:\\Users\\mpira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\StarSearch\\StarSearch\\obj\\",
+        "outputPath": "C:\\Users\\mpira\\OneDrive - sluz\\IMS\\INFORMATIK\\S4.IPT.6.1\\starsearch\\StarSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,12 +42,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.2, )"
             }
           },
           "imports": [
